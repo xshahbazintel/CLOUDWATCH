@@ -25,8 +25,9 @@ you can visualize the impact of new feature on user and how they are interacting
 
 
 Realtime User Monitoring:
-
-
+With CloudWatch RUM, you can perform real user monitoring to collect and view client-side data about your web application performance from actual user sessions in near real time.
+The data that you can visualize and analyze includes page load times, client-side errors, and user behavior. 
+When you view this data, you can see it all aggregated together and also see breakdowns by the browsers and devices that your customers use.
 
 costs associated with cloudwatch:
 metrics cost
