@@ -45,11 +45,4 @@ Insufficient data: Metric has just entered into alaram state, but it has not tri
 
 
 Composite Alarms:
-
-
-
-
-
-
-
-
+when you have multiple alarms on a single instance instead of having mulitiple actions, you can group all these alarms and have a single action on all these alarms
